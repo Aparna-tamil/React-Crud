@@ -1,0 +1,17 @@
+.App {
+  margin: auto;
+  width: 50%;
+}
+.myForm{
+  width: 100%;
+  background-color: #dfe6e9;
+  border-radius: 5px;
+  padding: 20px;
+}
+
+
+.formfield{
+  width: 20%;
+  height: 750%;
+
+}
